@@ -5,7 +5,7 @@ A full-featured web-based library management system built using Django. The syst
 ---
 
 ## 🖼️ Demo
-![App Screenshot](./screenshot.png)
+<img width="1876" height="988" alt="image" src="https://github.com/user-attachments/assets/8bd67d80-bbd0-45a5-9c9a-bc7af0abd2e5" />
 
 ---
 
